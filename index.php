@@ -91,7 +91,7 @@
                     <a class="navbar-brand" href= "https://www.unlpam.edu.ar">
                         <img src="./images/logounlpam.png" alt="unlpam"  width="100" height="60">
                     </a>
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="https://github.com/antonela-souto/TP-FINAL-ANTONELA-SOUTO">
                         <img src="./images/logo-GitHub.png" alt="GitHub" width="110" height="60">
                     </a>
                     <a class="navbar-brand" href= "https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">
