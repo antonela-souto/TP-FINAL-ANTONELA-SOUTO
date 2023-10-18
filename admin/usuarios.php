@@ -34,8 +34,8 @@ if (!isset($_SESSION['usuario_logueado']))
     <!-- tabla donde se muestran los usuarios y sus roles -->
     <table class="table">
         <tr>
-            <th>Apellido</th>
             <th>Nombre</th>
+            <th>Apellido</th>
             <th>Usuario</th>
             <th>Rol</th>
             <th>Editar</th>
